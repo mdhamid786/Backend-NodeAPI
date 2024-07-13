@@ -1,0 +1,10 @@
+/node_modules
+/back-end/node_modules
+back-end/config/config.env
+config/config.env
+/.vscode
+node_modules/
+.env
+/back-end/logs
+/back-end/config/BillImages
+/back-end/uploads/billImages
