@@ -35,6 +35,6 @@ PAYMENT_GATEWAY_KEY=your_payment_gateway_key
 
 
 📝 License
-This project is licensed under the MIT License © 2024 Hamid Ali (mdhamid786).
+This project is licensed under the MIT License © 2024 Hamid Ali (https://github.com/mdhamid786).
 
 ##You can modify the API endpoints, environment variables, or payment gateway details based on your actual implementation.
