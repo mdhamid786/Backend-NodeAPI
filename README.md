@@ -1,5 +1,4 @@
-Project Title
-Example:
+
 # ShoppersBill, eCommerce, LMS, and Event Management APIs
 
 Description
@@ -31,7 +30,7 @@ Provide steps to run the project locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/project-name.git
+git clone [https://github.com/your-username/project-name.git](https://github.com/mdhamid786/Backend-NodeAPI
 cd project-name
 npm install
 npm run dev
